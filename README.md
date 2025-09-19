@@ -26,7 +26,7 @@ This console-based application is a simulation of real-world ATM operations, des
 
 ## ✨ Key Features
 
-### Project 4 [ATM System]
+### Project [ATM System]
 - **Secure Login** – Authenticate users via account number and PIN.
 - **Quick Withdraw** – Choose from predefined amounts for faster transactions.
 - **Normal Withdraw** – Custom withdrawal with validation (multiples of 5).
@@ -34,7 +34,7 @@ This console-based application is a simulation of real-world ATM operations, des
 - **Check Balance** – Instantly view account details.
 - **File Handling** – Persistent storage using text files to ensure data integrity.
 
-### Project 4.1 [ATM System – 1st Extension]
+### Project [ATM System – 1st Extension]
 - **Update PIN Code** – Allow users to securely change their login PIN.
 - **Update Client Info** – Dynamically modify stored client data.
 - **View Client Info** – Display account details in a clean, formatted manner.
