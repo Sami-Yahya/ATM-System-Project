@@ -9,8 +9,8 @@ The application simulates real-world ATM operations with a focus on usability, c
 
 | Version                          | Description                                                                                      | Key Features Added                                                  |
 |----------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| **Project 4 [ATM System]**       | Initial version implementing core ATM functionalities.                                           | Secure login, withdrawals, deposits, balance checking, and file storage. |
-| **Project 4.1 [ATM System – 1st Extension]** | Extended version adding more user management and account modification features.                   | Update PIN, update client info, view client details.                |
+| **Project [ATM System]**       | Initial version implementing core ATM functionalities.                                           | Secure login, withdrawals, deposits, balance checking, and file storage. |
+| **Project [ATM System – 1st Extension]** | Extended version adding more user management and account modification features.                   | Update PIN, update client info, view client details.                |
 
 ---
 
